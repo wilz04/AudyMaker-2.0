@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clases", "Clases\Clases.vbproj", "{3E753204-B5A1-46CE-A18B-64801925857E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Paginas", "http://localhost/wilz04pages/AudyMaker/Paginas/Paginas.vbproj", "{4D963851-0AF4-4BAD-B682-7EC81F8A640A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3E753204-B5A1-46CE-A18B-64801925857E}.Debug.ActiveCfg = Debug|.NET
+		{3E753204-B5A1-46CE-A18B-64801925857E}.Debug.Build.0 = Debug|.NET
+		{3E753204-B5A1-46CE-A18B-64801925857E}.Release.ActiveCfg = Release|.NET
+		{3E753204-B5A1-46CE-A18B-64801925857E}.Release.Build.0 = Release|.NET
+		{4D963851-0AF4-4BAD-B682-7EC81F8A640A}.Debug.ActiveCfg = Debug|.NET
+		{4D963851-0AF4-4BAD-B682-7EC81F8A640A}.Debug.Build.0 = Debug|.NET
+		{4D963851-0AF4-4BAD-B682-7EC81F8A640A}.Release.ActiveCfg = Release|.NET
+		{4D963851-0AF4-4BAD-B682-7EC81F8A640A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
